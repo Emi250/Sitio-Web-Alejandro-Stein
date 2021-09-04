@@ -1,0 +1,81 @@
+.hover {
+transition: all 1s;
+}
+
+.hover:hover {
+    transform: scale(1.1);
+}
+
+#titulo { 
+    
+    font-size: 45px !important;
+    
+}
+
+.navbar {
+    background-color: black !important;
+}
+
+h6 {
+    line-height: 35px !important;
+}
+
+#America {
+    margin-left: 50px;
+}
+
+#SinTituloPosters {
+    margin-left: 40px;
+}
+
+
+#Talco {
+    margin-left: 50px;
+}
+
+#Zapatillas {
+    margin-left: 60px;
+}
+
+#SinTituloPosters-2 {
+    margin-left: 170px;
+}
+
+#RobleDeEslavonia, #Stimuli, #Mandala, #DaviDivaD {
+    margin-left: 20px;
+}
+
+#Puerta1, #Nelumbo, #SinTitulo2016, #Cruz {
+    margin-left: 25px;
+}
+
+span{
+    font-style: italic !important;
+    font-weight: bold !important;
+}
+
+article {
+    text-align: justify !important;
+}
+
+.openseadragon-canvas:focus { outline: none; }
+
+
+@media only screen and (max-width: 768px) {
+    .concepto {
+    display: flex;
+    flex-direction: row;
+    justify-content: center !important;
+    }
+
+    #SinTitulo2016, #RobleDeEslavonia, #Puerta1, #DaviDivaD, #Cruz, #Zapatillas, #Talco, #SinTituloPosters-2, #SinTituloPosters, #America, #Stimuli, #Mandala  {
+        margin-left: 1px;
+    }
+    #titulo { 
+    
+        font-size: 35px !important;
+        
+        
+    }
+   
+}
