@@ -60,6 +60,22 @@ article {
 
 .openseadragon-canvas:focus { outline: none; }
 
+.ajuste23x30 {
+    margin-right: 35px;
+}
+
+.ajuste23x30-2 {
+    margin-right: 25px;
+}
+
+.ajuste23x30-3 {
+    margin-right: 5px;
+}
+
+.ajuste23x30-4 {
+    margin-right: 45px;
+}
+
 
 @media only screen and (max-width: 768px) {
     .concepto {
