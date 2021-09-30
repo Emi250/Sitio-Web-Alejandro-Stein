@@ -10,6 +10,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x1.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -29,6 +30,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x2.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -48,6 +50,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x3.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -67,6 +70,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x4.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -85,6 +89,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x5.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -103,6 +108,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x8.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -122,6 +128,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x7.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -141,6 +148,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x6.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -161,6 +169,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x9.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -179,6 +188,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x10.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -197,6 +207,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x16.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -216,6 +227,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x12.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -234,6 +246,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x13.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -252,6 +265,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x14.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -270,6 +284,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x15.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -288,6 +303,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x11.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -307,6 +323,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x19.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -325,6 +342,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x18.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -344,6 +362,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x17.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -363,6 +382,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x20.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -381,6 +401,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x21.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -400,6 +421,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x23.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -421,6 +443,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x24.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -442,6 +465,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x22.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -462,6 +486,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x25.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -480,6 +505,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x26.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -498,6 +524,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x27.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -516,6 +543,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/23x30/23x28.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true

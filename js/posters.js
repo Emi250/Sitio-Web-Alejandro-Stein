@@ -1,19 +1,23 @@
 // POSTERS
 
+
 // America
 
 var viewer = OpenSeadragon({
     id: "America",
     prefixUrl: "/openseadragon/images/",
     tileSources: { type: 'image', url:  '/assets/portfolio/posters/posters1.webp' },
-    sequenceMode: true,
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true,
+    
 },
 visibilityRatio: 1.0,
 constrainDuringPan: true,
+
+
      })
 
      
@@ -25,6 +29,7 @@ var viewer = OpenSeadragon({
     prefixUrl: "/openseadragon/images/",
     tileSources: { type: 'image', url:  '/assets/portfolio/posters/posters2.webp' },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -40,6 +45,7 @@ var viewer = OpenSeadragon({
     prefixUrl: "/openseadragon/images/",
     tileSources: { type: 'image', url:  '/assets/portfolio/posters/posters3.webp' },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -55,6 +61,7 @@ var viewer = OpenSeadragon({
     prefixUrl: "/openseadragon/images/",
     tileSources: { type: 'image', url:  '/assets/portfolio/posters/posters4.webp' },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -70,6 +77,7 @@ var viewer = OpenSeadragon({
     prefixUrl: "/openseadragon/images/",
     tileSources: { type: 'image', url:  '/assets/portfolio/posters/posters5.webp' },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true

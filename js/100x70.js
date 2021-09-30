@@ -10,6 +10,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x1.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -28,6 +29,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x2.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -46,6 +48,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x3.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -65,6 +68,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x4.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -84,6 +88,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x5.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -103,6 +108,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x6.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -123,6 +129,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x7.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -142,6 +149,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x8.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -160,6 +168,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x9.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -178,6 +187,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/100x70/100x10.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true

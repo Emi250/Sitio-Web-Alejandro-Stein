@@ -11,6 +11,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/doors/door1.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -29,6 +30,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/doors/door2.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -48,6 +50,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/doors/door3.webp'
     },
     degrees: 90,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -66,6 +69,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/doors/door4.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true

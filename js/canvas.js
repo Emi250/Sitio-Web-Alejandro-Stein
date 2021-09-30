@@ -12,6 +12,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/canvas1.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -30,6 +31,7 @@ constrainDuringPan: true,
      url:  '/assets/portfolio/canvas/canvas3.webp'
      },
      degrees: 0,
+     showNavigationControl: window.innerWidth > 768,
      showRotationControl: true,
      gestureSettingsTouch: {
      pinchRotate: true
@@ -49,6 +51,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/mosaicofractario.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
      showRotationControl: true,
      gestureSettingsTouch: {
     pinchRotate: true
@@ -68,6 +71,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/A1.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -84,6 +88,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/B1.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -100,6 +105,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/C1.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -116,6 +122,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/D1.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -132,6 +139,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/E1.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -148,6 +156,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/A2.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -164,6 +173,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/B2.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -180,6 +190,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/C2.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -196,6 +207,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/D2.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -211,7 +223,7 @@ var viewer = OpenSeadragon({
                     type: 'image',
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/E2.webp'
                     },
-                    degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -228,6 +240,7 @@ var viewer = OpenSeadragon({
                         url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/A3.webp'
                         },
                         degrees: 0,
+                        showNavigationControl: window.innerWidth > 768,
                         showRotationControl: true,
                         gestureSettingsTouch: {
                         pinchRotate: true
@@ -244,6 +257,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/B3.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -260,6 +274,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/C3.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -276,6 +291,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/D3.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -291,7 +307,8 @@ var viewer = OpenSeadragon({
                     type: 'image',
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/E3.webp'
                     },
-                    degrees: 0,
+                    degrees: 0, 
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -308,6 +325,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/A4.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -324,6 +342,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/B4.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -340,6 +359,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/C4.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -356,6 +376,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/D4.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -372,6 +393,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/E4.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -388,6 +410,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/A5.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -404,6 +427,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/B5.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -420,6 +444,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/C5.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -436,6 +461,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/D5.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -452,6 +478,7 @@ var viewer = OpenSeadragon({
                     url:  '/assets/portfolio/canvas/conceptoMosaicoFractario/E5.webp'
                     },
                     degrees: 0,
+                    showNavigationControl: window.innerWidth > 768,
                     showRotationControl: true,
                     gestureSettingsTouch: {
                     pinchRotate: true
@@ -471,6 +498,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/canvas5.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -489,6 +517,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/canvas7.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -508,6 +537,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion2A.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -524,6 +554,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion2A/combinacion2B.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -540,6 +571,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion2A/combinacion2C.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -556,6 +588,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion2A/combinacion2D.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -572,6 +605,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion2A/combinacion2E.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -588,6 +622,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion2A/combinacion2F.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -604,6 +639,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion2A/combinacion2G.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -620,6 +656,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion2A/combinacion2H.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -640,6 +677,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion4.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -656,6 +694,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion4/combinacionB.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -672,6 +711,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion4/combinacionC.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -688,6 +728,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion4/combinacionD.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -704,6 +745,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion4/combinacionE.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -720,6 +762,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion4/combinacionF.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -736,6 +779,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion4/combinacionG.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -752,6 +796,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/combinacion4/combinacionH.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -771,6 +816,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/canvas8.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -789,6 +835,7 @@ var viewer = OpenSeadragon({
     type: 'image',
     url:  '/assets/portfolio/canvas/canvas9.webp'
     },
+    showNavigationControl: window.innerWidth > 768,
     degrees: 0,
     showRotationControl: true,
     gestureSettingsTouch: {
@@ -810,6 +857,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/canvas10.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -828,6 +876,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/canvas/canvas11.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -846,6 +895,7 @@ var viewer = OpenSeadragon({
     type: 'image',
     url:  '/assets/portfolio/canvas/canvas12.webp'
     },
+    showNavigationControl: window.innerWidth > 768,
     degrees: 0,
     showRotationControl: true,
     gestureSettingsTouch: {

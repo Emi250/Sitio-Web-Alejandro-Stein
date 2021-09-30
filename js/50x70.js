@@ -10,6 +10,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x1.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -29,6 +30,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x2.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -48,6 +50,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x3.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -67,6 +70,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x4.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -86,6 +90,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x5.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -106,6 +111,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x6.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -125,6 +131,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x7.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -143,6 +150,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x8.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -161,6 +169,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x9.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -179,6 +188,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x10.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -197,6 +207,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x11.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -215,6 +226,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x12.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -233,6 +245,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x13.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -252,6 +265,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x15.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
@@ -272,6 +286,7 @@ var viewer = OpenSeadragon({
     url:  '/assets/portfolio/50x70/50x14.webp'
     },
     degrees: 0,
+    showNavigationControl: window.innerWidth > 768,
     showRotationControl: true,
     gestureSettingsTouch: {
     pinchRotate: true
